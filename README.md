@@ -25,6 +25,6 @@
 
 [linkedin]: https://www.linkedin.com/in/muhammad-kaleem-603b0711a/
 [gmail]: mailto:muhammadkaleem57@gmail.com
-[leetcode]: https://twitter.com/kaleem57s
+[twiiter]: https://twitter.com/kaleem57s
 
 ⭐️ From [Muhammad Kaleem] (https://github.com/muhammadkaleem57)
