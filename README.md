@@ -27,4 +27,4 @@
 [gmail]: mailto:muhammadkaleem57@gmail.com
 [twitter]: https://twitter.com/kaleem57s
 
-⭐️ From [Muhammad Kaleem](https://github.com/muhammadkaleem57)
+⭐️ From [Muhammad KaLeeM](https://github.com/muhammadkaleem57)
