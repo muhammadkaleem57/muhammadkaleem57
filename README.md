@@ -4,7 +4,7 @@
 ## I'm a full stack developer and Life Long Learner!
 - 🔭 I’m currently working for Triixa Technologies!
 - 🌱 I’m currently Learning everything.
-- 🥅 2021 Goals: Learn come cool stuf of JS & Node
+- 🥅 2021 Goals: Learn more cool stuf of JS & Node
 - ⚡ Fun fact: I love to  watch tv series.
 
 ---
